@@ -1,0 +1,14 @@
+<Playlist Version="1.0">
+	<Add Test="Todo.Lab.Tests.US1_DB_Integration.Get_all_tasks" />
+	<Add Test="Todo.Lab.Tests.US3_HTTP.Status_not_found_when_changing_task_that_does_not_exist" />
+	<Add Test="Todo.Lab.Tests.US3.Status_not_found_when_changing_task_that_does_not_exist" />
+	<Add Test="Todo.Lab.Tests.US3_HTTP.Change_completeness_of_task" />
+	<Add Test="Todo.Lab.Tests.US3.Change_title_of_task" />
+	<Add Test="Todo.Lab.Tests.US1.Get_all_tasks" />
+	<Add Test="Todo.Lab.Tests.US4.Status_not_found_when_deleting_task_that_does_not_exist" />
+	<Add Test="Todo.Lab.Tests.US3.Change_completeness_of_task" />
+	<Add Test="Todo.Lab.Tests.US2.Add_new_task" />
+	<Add Test="Todo.Lab.Tests.US4.Delete_task" />
+	<Add Test="Todo.Lab.Tests.US3_HTTP.Change_title_of_task" />
+	<Add Test="Todo.Lab.Tests.US5.Clear_all_completed_tasks" />
+</Playlist>

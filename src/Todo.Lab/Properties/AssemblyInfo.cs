@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Todo.Starter")]
+[assembly: AssemblyTitle("Todo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Todo.Starter")]
+[assembly: AssemblyProduct("Todo")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ba637a33-60cb-43a8-93e3-cb8ea3927867")]
+[assembly: Guid("fdfee4ef-e7a6-402f-b8ab-4bdcb3bca79e")]
 
 // Version information for an assembly consists of the following four values:
 //

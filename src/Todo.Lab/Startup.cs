@@ -55,7 +55,8 @@ namespace Todo
 			var thisAssembly = typeof(Startup).Assembly;
 
 			var builder = new ContainerBuilder();
-			// TODO: register your types here with Autofac
+			builder.RegisterApiControllers(thisAssembly);
+			builder.RegisterType<TodoService>().As<ITodoService>();
 
 			var container = builder.Build();
 
